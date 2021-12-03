@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JCDixon
 - 👀 I’m interested in developing my own full-stack web applications
-- 🌱 I’m currently learning Java, CSS, HTML, Javascript, Go
+- 🌱 I’m currently learning Java, CSS, HTML, Javascript, and SQL
 - 💞️ I’m looking to collaborate on Open Source projects 
 - 📫 How to reach me: ovh9fyyaf@relay.firefox.com
 
