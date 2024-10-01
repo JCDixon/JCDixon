@@ -1,7 +1,6 @@
 - 👋 Hi, I’m John Dixon
 - 👀 I’m interested in developing full-stack web applications
-- 🌱 I’m currently learning Java, CSS, HTML, Javascript, and SQL
-- 💞️ I’m looking to collaborate on Open Source projects 
+- 🌱 I’m currently learning C#, CSS, HTML, Javascript, and SQ
 - 📫 How to reach me: ovh9fyyaf@relay.firefox.com
 
 <!---
